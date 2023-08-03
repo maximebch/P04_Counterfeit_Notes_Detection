@@ -1,4 +1,5 @@
 # P04_Counterfeit_Notes_Detection
+<h2><strong><em>Data Analyst Certification by OpenClassrooms, in partnership with&nbsp;ENSAE-ENSAI</em></strong></h2>
 <p><em>Detecting counterfeit notes using a classification algorithm<br /></em></p>
 <p><em>Skills:</em></p>
 <ul>
